@@ -1,2 +1,4 @@
 # apnacollege-demo
-This is my first git repository.author -- anand kumar
+This is my first git repository.
+<br>
+Author - anand kumar
